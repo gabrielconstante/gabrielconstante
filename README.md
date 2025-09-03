@@ -4,7 +4,7 @@
 
 Me chamo Gabriel Constante, tenho 20 anos, sou de Goiânia, Goiás, e atuo como desenvolvedor há mais de 5 anos. Minha trajetória na área de tecnologia começou cedo e, desde então, venho acumulando experiência prática em desenvolvimento de aplicações, com foco em soluções eficientes e bem estruturadas. Atualmente, trabalho com projetos que envolvem banco de dados, APIs e aplicativos Android, sempre buscando evolução constante e boas práticas de desenvolvimento.
 
-🤖 Linguagens e Tecnologias
+# 🤖 Linguagens e Tecnologias
 
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="Android" title="Android" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
