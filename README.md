@@ -24,3 +24,16 @@ Me chamo Gabriel Constante, tenho 20 anos, sou de Goiânia, Goiás, e atuo como 
 
 ---
 ✨ Sempre em busca de novos desafios e evolução constante!
+
+### 📊 Estatísticas
+
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielconstante&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
